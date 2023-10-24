@@ -124,6 +124,6 @@ if __name__ == "__main__":
             search_result = rucksackSearch(items[0])
             item_priority_sum += itemPriority(search_result)
 
-    print("Rucksack search priority sum is: %i" %item_priority_sum)
+    print("Rucksack search priority sum is: %i" % item_priority_sum)
     print("Badge search priority sum is: %i" % badge_priority_sum)
 
